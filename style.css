@@ -1,0 +1,10 @@
+html {
+    font-size: 1em;
+    background-image: url(img/purple_marble.png)
+}
+.estadisticas{
+    border-color: blue;
+    border-width: 0.5px;
+    background-color: yellow;
+    box-shadow: 1px;
+}
